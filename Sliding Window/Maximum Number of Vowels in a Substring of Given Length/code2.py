@@ -16,8 +16,8 @@ class Solution:
                 max_v = max(max_v, num_v)
         return max_v
 
-s = "weallloveyou"
+s = "abciiidef"
 # print(s.count("i"))
-k = 7
+k = 3
 obj = Solution()
 print(obj.maxVowels(s, k))
